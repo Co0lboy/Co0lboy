@@ -5,7 +5,7 @@
 </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ani002&label=Profile%20views&color=0e75b6&style=flat" alt="sschoudhary30" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ani002&label=Profile%20views&color=0e75b6&style=flat" alt="co0lboy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/suracechoudhary" target="blank"><img src="https://img.shields.io/twitter/follow/suracechoudhary?logo=twitter&style=for-the-badge" alt="suracechoudhary" /></a> </p>
 
