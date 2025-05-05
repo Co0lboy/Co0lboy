@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/suracechoudhary" target="blank"><img src="https://img.shields.io/twitter/follow/suracechoudhary?logo=twitter&style=for-the-badge" alt="suracechoudhary" /></a> </p>
 
-- 💬 Ask me about **Design(UI/UX, Logo, Label branding) & Front-End Development**
+
 
 - 📫 How to reach me **pawarani002@gmail.com**
 
@@ -17,7 +17,7 @@
 - <table>
   <tr>
     <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ani002&layout=compact&theme=dark" alt="sureshchoudhary" /></td>
-    <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sschoudhary&theme=dark&width=10000" alt="sureshchoudhary" /></td>
+    <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=co0lboy&theme=dark&width=10000" alt="sureshchoudhary" /></td>
   </tr>
 </table>
 <h3 align="left"> Coding Profile</h3>
