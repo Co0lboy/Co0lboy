@@ -1,22 +1,22 @@
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Aniket Pawar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <h3 align="center">A passionate Java Developer & FrontEnd Developer from India</h3>
 <p align="center">
-  <a href="https://github.com/aryanjangid/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Java+Developer;Robotics+$+Automation+Student;UI/UX+Developer"></a>
+  <a href="https://github.com/aryanjangid/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Java+Developer;Robotics+&+Automation+Student;UI/UX+Developer"></a>
 </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sschoudhary30&label=Profile%20views&color=0e75b6&style=flat" alt="sschoudhary30" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ani002&label=Profile%20views&color=0e75b6&style=flat" alt="sschoudhary30" /> </p>
 
 <p align="left"> <a href="https://twitter.com/suracechoudhary" target="blank"><img src="https://img.shields.io/twitter/follow/suracechoudhary?logo=twitter&style=for-the-badge" alt="suracechoudhary" /></a> </p>
 
 - 💬 Ask me about **Design(UI/UX, Logo, Label branding) & Front-End Development**
 
-- 📫 How to reach me **suresh12345x@gmail.com & sureshchoudhary.work@gmail.com**
+- 📫 How to reach me **pawarani002@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UGKITQHSnvEXHBjjndQYAliU4sEitSHQ/view">Resume📃</a>
 - <table>
   <tr>
-    <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sschoudhary30&layout=compact&theme=dark" alt="sureshchoudhary" /></td>
+    <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ani002&layout=compact&theme=dark" alt="sureshchoudhary" /></td>
     <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sschoudhary&theme=dark&width=10000" alt="sureshchoudhary" /></td>
   </tr>
 </table>
