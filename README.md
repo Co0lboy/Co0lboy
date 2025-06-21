@@ -17,7 +17,7 @@
 - <table>
   <tr>
     <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=co0lboy&layout=compact&theme=dark" alt="sureshchoudhary" /></td>
-    <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=co0lboy&theme=dark&width=10000" alt="sureshchoudhary" /></td>
+    <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=co0lboy&theme=dark&width=10000" alt="" /></td>
   </tr>
 </table>
 <h3 align="left"> Coding Profile</h3>
