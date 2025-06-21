@@ -16,7 +16,7 @@
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UGKITQHSnvEXHBjjndQYAliU4sEitSHQ/view">Resume📃</a>
 - <table>
   <tr>
-    <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=co0lboy&layout=compact&theme=dark" alt="sureshchoudhary" /></td>
+    <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=co0lboy&layout=compact&theme=dark" alt="Aniket_pawar" /></td>
     <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=co0lboy&theme=dark&width=10000" alt="" /></td>
   </tr>
 </table>
