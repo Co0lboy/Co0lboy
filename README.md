@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I+am+Aniket+Pawar;Java+SpringBoot+Developer;Robotics+%7C+Render+%7C+Railway+Deployer;&center=true&width=1000&height=50&color=00f7ff&pause=1000" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Aniket+Pawar!;💻+Java+SpringBoot+Developer;🚀+Deploying+Apps+on+Railway+%26+Render;🎓+Robotics+%26+Automation+Engineer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" height="270"/>
