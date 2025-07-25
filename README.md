@@ -77,20 +77,24 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+---
+
+## 📊 My GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Co0lboy&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Co0lboy&layout=compact&theme=tokyonight&langs_count=8&hide_border=false" width="45%" />
+</div>
 
-<!-- 🔥 Streak Stats -->
-<img src="https://github-readme-streak-stats.demolab.com/?user=ani002&theme=tokyonight&hide_border=false" width="47%" />
+<br>
 
-<!-- 🌐 Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ani002&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" width="47%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Co0lboy&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="90%" />
+</div>
 
-<!-- 🧠 GitHub Profile Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ani002&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="94%" />
+<br>
 
-<!-- 📌 Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ani002&theme=react-dark&area=true&hide_border=false" width="100%" />
-
+### 🗓️ Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Co0lboy&bg_color=0d1117&color=00ffe4&line=00c9ff&point=ffffff&area=true&hide_border=false" width="90%" />
 </div>
