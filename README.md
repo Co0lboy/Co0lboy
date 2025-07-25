@@ -1,92 +1,104 @@
-<h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
-  नमस्ते (Namaste)🙏🏻, I'm Aniket Pawar!
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-</h2>
-
-<h3 align="center">A passionate Java & Backend Developer from India 🇮🇳</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=👋+Hey%2C+I'm+Aniket+Pawar!;💻+Java+%7C+SpringBoot+BackEnd+Developer;🚀+Tech+Explorer+%7C+Robotics+Engineer;🔥+Always+Learning+and+Building+Projects" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Java+Developer;Robotics+And+Automation+Engineer;Spring+Boot+Back-End+Specialist;MySQL+|+HTML+|+CSS+|+JS" />
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" height="250"/>
 </p>
-
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160"/>
 
 ---
 
-### 📫 Contact Me
+### 👨‍💻 About Me
 
-- 📧 Email: **pawarani002@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/aniket-pawar-2436bb240/)
-- 🐦 [Twitter](https://x.com/Aniketp26812224)
+- 🎓 B.E. in **Robotics & Automation Engineering** from D. Y. Patil College, Pune  
+- 💻 Passionate **Back-End Java Developer** with Spring Boot  
+- 🛠️ Tech Stack: Java | Spring Boot | MySQL | HTML | CSS | JavaScript  
+- ☁️ Deployed Projects on **Render** and **Railway**  
+- 📫 Reach Me: **pawarani002@gmail.com**  
 - 📄 [Resume](https://drive.google.com/file/d/1UGKITQHSnvEXHBjjndQYAliU4sEitSHQ/view)
-- 💻 [LeetCode](https://leetcode.com/u/ani002/)
 
 ---
 
-### ⚙️ Tech Stack & Tools
+### ⚒️ My Tech Toolbox
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="42" alt="MySQL" />
-  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" height="42" alt="Render" />
-  <img src="https://raw.githubusercontent.com/railwayapp/logos/main/logo-light.svg" height="42" alt="Railway" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" height="42" alt="DBeaver" />
-</p>
-
----
-
-### 🧠 Fun Stuff
-
-- 📌 “Code is like humor. When you have to explain it, it’s bad.”
-- 🤖 Bachelor’s in Robotics & Automation Engineering.
-- 🔭 Currently building full-stack projects using Java & Spring Boot.
-
----
-
-### 🏆 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ani002&theme=onedark&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,docker,git,github,vscode,postman" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-Deploy-blue?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-Cloud-yellow?style=for-the-badge&logo=railway&logoColor=black" />
+  <img src="https://img.shields.io/badge/DBeaver-DBTool-success?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-### 👨‍💻 Coding Stats
+### 🧠 Fun Facts
 
-#### 📊 LeetCode Heatmap
-![Leetcode Stats](https://leetcard.jacoblin.cool/ani002?ext=heatmap)
-
----
-
-### 🎯 Quote of the Day
-> "The only way to do great work is to love what you do." – *Steve Jobs*
+- 🤖 I build backend logic like robots follow logic circuits  
+- 🧩 Debugging is my meditation  
+- 🧑‍🏫 Helping others learn Java gives me joy  
+- 🚀 Currently contributing to open-source Spring Boot projects
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ani002&theme=radical&margin-w=15&margin-h=15&no-frame=true" />
+</p>
+
+---
+
+### 🔥 GitHub Stats
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ani002&layout=compact&theme=dark" height="200px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ani002&layout=compact&theme=tokyonight" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ani002&theme=dark" height="200px" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ani002&theme=tokyonight" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 😂 Here's a Developer Joke for You
+### 📊 LeetCode Grind
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ani002?ext=heatmap" />
+</p>
+
+---
+
+### 💡 Quote of the Day
+
+> _“The best way to predict the future is to invent it.”_ – Alan Kay
+
+---
+
+### 🤣 Developer Joke
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 
+### 🌐 Connect With Me
+
 <p align="center">
-  <b>Thanks for visiting! Feel free to reach out and collaborate 💻✨</b>
+  <a href="https://x.com/Aniketp26812224"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://www.linkedin.com/in/aniket-pawar-2436bb240/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://leetcode.com/u/ani002/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ani002&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <b>Thanks for stopping by! Let's connect & build something awesome together 🚀</b>
 </p>
