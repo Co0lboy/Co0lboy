@@ -79,22 +79,46 @@
 
 ---
 
-## 📊 My GitHub Stats
+---
+
+## 📊 My GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Co0lboy&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Co0lboy&layout=compact&theme=tokyonight&langs_count=8&hide_border=false" width="45%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Co0lboy&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" 
+       alt="🔥 GitHub Streak" width="45%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Co0lboy&layout=compact&theme=tokyonight&langs_count=8&hide_border=false"
+       alt="🧠 Top Languages" width="45%" />
 </div>
 
-<br>
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Co0lboy&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="90%" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Co0lboy&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
+       alt="📈 GitHub Stats" width="90%" />
+  
 </div>
 
-<br>
+---
 
 ### 🗓️ Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Co0lboy&bg_color=0d1117&color=00ffe4&line=00c9ff&point=ffffff&area=true&hide_border=false" width="90%" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Co0lboy&bg_color=0d1117&color=00ffe4&line=00c9ff&point=ffffff&area=true&hide_border=false" 
+       alt="📊 Contribution Graph" width="90%" />
+  
 </div>
+
+---
+
+### 🎯 GitHub Overview Summary
+
+- 🚀 **185+ contributions** since Oct 2022  
+- 🔥 **6-day longest contribution streak**
+- 💻 **Most Used Languages:** `Java`, `TypeScript`, `JavaScript`
+- 🧠 **Private Commits Enabled**
+- 🌍 **Stats updated live – stay tuned!**
+
+---
