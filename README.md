@@ -1,65 +1,95 @@
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Aniket Pawar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<h3 align="center">A passionate Java Developer & BackEnd Developer from India</h3>
+<h2 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  नमस्ते (Namaste)🙏🏻, I'm Aniket Pawar!
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h2>
+
+<h3 align="center">A passionate Java & Backend Developer from India 🇮🇳</h3>
+
 <p align="center">
-  <a href="https://github.com/aryanjangid/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Java+Developer;Robotics+And+Automation+Student;Backend+Developer"></a>
+  <a href="https://github.com/aryanjangid/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Java+Developer;Robotics+And+Automation+Engineer;Backend+Developer" width="600">
+  </a>
 </p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ani002&label=Profile%20views&color=0e75b6&style=flat" alt="co0lboy" /> </p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
-<p align="left"> <a href="https://x.com/Aniketp26812224" target="blank"><img src="https://img.shields.io/twitter/follow/Aniket pawar?logo=twitter&style=for-the-badge" alt="aniketpawar" /></a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ani002&label=Profile%20views&color=0e75b6&style=flat" alt="aniketpawar" />
+</p>
 
+---
 
+### 📫 How to reach me
+- 📧 Email: **pawarani002@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aniket-pawar-2436bb240/)
+- 🐦 [Twitter](https://x.com/Aniketp26812224)
+- 💻 [LeetCode](https://leetcode.com/u/ani002/)
+- 📝 [Resume](https://drive.google.com/file/d/1UGKITQHSnvEXHBjjndQYAliU4sEitSHQ/view)
 
-- 📫 How to reach me **pawarani002@gmail.com**
+---
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UGKITQHSnvEXHBjjndQYAliU4sEitSHQ/view">Resume📃</a>
-- <table>
+### 🔥 GitHub Stats
+
+<table>
   <tr>
-    <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=co0lboy&layout=compact&theme=dark" alt="Aniket_pawar" /></td>
-    <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=co0lboy&theme=dark&width=10000" alt="" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ani002&layout=compact&theme=dark" height="200px" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ani002&theme=dark" height="200px" width="100%" />
+    </td>
   </tr>
 </table>
-<h3 align="left"> Coding Profile</h3>
 
+---
 
+### 👨‍💻 Coding Profiles
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ani002?ext=heatmap)
 
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://x.com/Aniketp26812224" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aniket-pawar-2436bb240/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
+  <a href="https://leetcode.com/u/ani002/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack & Tools
+
 <p align="left">
-
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/suracechoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/uracechoudhary" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sschoudhary30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aniket-pawar-2436bb240/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/su.race0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/su.race0/" height="30" width="40" /></a>
-<a href="https://www.behance.net/desyn_suresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="desyn_suresh" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ani002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suresh_aumix/" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="42" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="42" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="42" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="42" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="42" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="42" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="42" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="42" alt="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="42" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="42" alt="Photoshop"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="42" alt="Figma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="42" alt="Oracle"/>
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="42" alt="Blender"/>
 </p>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" align="left" height="42"/> </a> 
+---
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="42" align="left"/> </a> 
-
-<a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer"  align="left" height="42"/> </a> 
-
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" align="left" height="42"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" align="left" height="42"/> </a> 
-
-
-
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="left" alt="mysql"  height="42"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" align="left" height="40"/> </a> <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a><a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a> <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a> <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" align="left" height="42"/> </a>
-
-<br>
-
-</p>
-<h3 align="left">One joke please🤣🤣:</h3>
-
-<!-- Markdown -->
-
+### 😂 Here's a Joke For You
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
