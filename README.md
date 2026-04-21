@@ -87,12 +87,6 @@
 
 <br>
 
-<!-- 📈 GitHub Profile Summary -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Co0lboy&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
-       alt="📈 GitHub Stats" width="90%" />
-</div>
-
 <br>
 
 <!-- 📊 Contribution Graph -->
