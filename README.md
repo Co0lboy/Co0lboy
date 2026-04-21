@@ -53,6 +53,61 @@
 
 ---
 
+## 💼 Work Experience
+
+### 💻 Software Developer Intern  
+**Altroz Technologies Pvt Ltd** *(Oct 2025 – Present)*  
+
+- 🚀 Developed **20+ scalable REST APIs** using Spring Boot & MySQL  
+- 📈 Improved database performance by **25%**  
+- 🤖 Built AI chatbot → **40% faster query resolution**  
+- ☁️ Deployed applications on **IIS Server (Production & UAT)**  
+- 🤝 Worked in Agile environment using **JIRA & Git**  
+
+---
+
+## 🚀 Projects
+
+### 🧑‍💼 HRMatrix – Employee Management System  
+🔗 *[GitHub Link]* | 🌐 *[Live Demo]*  
+
+- Full-stack HR system with Employee, Attendance, Leave modules  
+- 🔐 Role-based access control system  
+- ⚡ Achieved **95% performance improvement**  
+
+**Tech:** Spring Boot, MySQL, REST APIs  
+
+---
+
+### ✈️ TripEase – Travel Booking System  
+🔗 *[GitHub Link]* | 🌐 *[Live Demo]*  
+
+- Secure booking system with **JWT Authentication**  
+- 📧 Email notifications using SMTP  
+- ⚡ Improved efficiency by **30%**  
+
+**Tech:** Spring Boot, MySQL, Spring Security  
+
+---
+
+### 🤖 Anexa AI Chatbot  
+🔗 *[GitHub Link]* | 🌐 *[Live Demo]*  
+
+- AI-powered chatbot using **OpenAI API**  
+- Real-time conversation system  
+- Scalable backend architecture  
+
+**Tech:** Spring Boot, React.js, OpenAI API  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Ranked **275 / 15,000+** in DSA Contest  
+- 🥈 Secured **2nd Rank** in Robotics & Automation Department  
+
+---
+
 ### 🚀 Coding Activity
 
 <p align="center">
@@ -95,11 +150,9 @@
 
 <div align="center">
 
-  <!-- 🔥 GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Co0lboy&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" 
        alt="🔥 GitHub Streak Stats" width="45%" />
   
-  <!-- 💻 Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Co0lboy&layout=compact&theme=tokyonight&langs_count=8&hide_border=false" 
        alt="💻 Top Languages" width="45%" />
 
@@ -107,7 +160,6 @@
 
 <br>
 
-<!-- 📈 GitHub Profile Summary -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Co0lboy&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
        alt="📈 GitHub Stats" width="90%" />
@@ -115,7 +167,6 @@
 
 <br>
 
-<!-- 📊 Contribution Graph -->
 <h3 align="center">🗓️ Contribution Graph</h3>
 
 <div align="center">
