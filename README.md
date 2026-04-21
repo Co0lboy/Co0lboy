@@ -85,26 +85,6 @@
 
 ---
 
----
-
----
-
----
-
-## 📊 My GitHub Stats
-
-<div align="center">
-
-  <!-- 🔥 GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Co0lboy&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" 
-       alt="🔥 GitHub Streak Stats" width="45%" />
-  
-  <!-- 💻 Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Co0lboy&layout=compact&theme=tokyonight&langs_count=8&hide_border=false" 
-       alt="💻 Top Languages" width="45%" />
-
-</div>
-
 <br>
 
 <!-- 📈 GitHub Profile Summary -->
