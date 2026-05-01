@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **B.E. in Robotics & Automation Engineering**  
-- 💻 **Java Backend Developer** with expertise in Spring Boot  
+- 💻 **Backend Developer** with expertise in Spring Boot  
 - ☁️ Deployed live apps using **Render** & **Railway**  
 - 🤖 Experience with **AI Chatbot Integration (OpenAI API)**  
 - 🧠 Strong in **DSA, OOP, and System Design**  
