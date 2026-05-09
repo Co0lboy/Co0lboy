@@ -53,25 +53,6 @@
 
 ---
 
-### 🚀 Projects
-
-#### 🧑‍💼 HRMatrix – Employee Management System
-- Built using **ASP.NET Core MVC & Entity Framework**
-- Modules: Employee, Attendance, Leave & Role Management
-- Optimized queries → ⚡ **95% efficiency improvement**
-
-#### ✈️ TripEase – Travel Booking System
-- Backend using **ASP.NET Core Web API**
-- Features: Authentication, Booking Workflow, Email Notifications
-- ⚡ Improved processing time by **30%**
-
-#### 🤖 Anexa AI Chatbot
-- Built using **ASP.NET Core Web API + React**
-- Integrated **OpenAI GPT API**
-- Persistent chat storage using **SQL Server**
-- Designed scalable APIs for real-time interaction
-
----
 
 ### 💼 Experience
 
