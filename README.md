@@ -52,16 +52,6 @@
   <img src="https://img.shields.io/badge/JIRA-Agile-blue?style=flat-square" />
 </p>
 
----
-
-
-### 💼 Experience
-
-**.NET Developer Intern**  
-- Developed scalable REST APIs supporting 500+ users  
-- Built AI chatbot for HR automation  
-- Improved SQL performance by 25%  
-- Deployed applications using IIS  
 
 ---
 
