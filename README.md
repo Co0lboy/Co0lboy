@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=1200&lines=👋+Hi,+I'm+Aniket+Pawar!;💻+Java+Full+Stack+Developer;🚀+Spring+Boot+%7C+Microservices+Developer;🎓+Robotics+%26+Automation+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=1200&lines=👋+Hi,+I'm+Aniket+Pawar!;💻+Full+Stack+.NET+Developer;🚀+ASP.NET+Core+%7C+Web+API+Developer;🎓+Robotics+%26+Automation+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **B.E. in Robotics & Automation Engineering**
-- 💻 **Backend Developer** with expertise in Spring Boot & REST APIs
+- 💻 **Full Stack .NET Developer** with expertise in ASP.NET Core & REST APIs
 - ☁️ Familiar with **AWS (EC2, S3)** and **CI/CD Fundamentals**
 - 🤖 Experience with **AI Chatbot Integration (OpenAI API)**
 - 🧠 Strong in **DSA, OOP, Design Patterns & System Design**
@@ -23,15 +23,17 @@
 ### 🧠 What I Do
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Backend%20Development-yellow?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-.NET%20Development-purple?style=for-the-badge&logo=csharp&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/SpringBoot-REST%20APIs-green?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-REST%20APIs-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/Microservices-Architecture-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-ORM-purple?style=for-the-badge&logo=dotnet&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/Hibernate%20%7C%20JPA-ORM-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-Frontend%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   
-  <img src="https://img.shields.io/badge/MySQL-Database%20Design-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Database%20Design-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Web%20API-Backend%20Development-blue?style=for-the-badge&logo=dotnet&logoColor=white" />
   
   <img src="https://img.shields.io/badge/System%20Design-Scalable%20Apps-red?style=for-the-badge" />
   
@@ -45,21 +47,21 @@
 ### ⚒️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,js,git,github,vscode,postman,docker,aws,maven" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,html,css,js,mysql,git,github,vscode,postman,docker,aws" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Render-Deployment-blueviolet?style=flat-square&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/IIS-Deployment-blue?style=flat-square&logo=microsoft&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/Railway-Deployment-0099ff?style=flat-square&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-ORM-purple?style=flat-square&logo=dotnet&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/DBeaver-DB%20Tool-success?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Database-red?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/Maven-Build%20Tool-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Swagger-API%20Documentation-green?style=flat-square&logo=swagger&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-Server-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-orange?style=flat-square&logo=postman&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/JUnit-Testing-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=flat-square&logo=docker&logoColor=white" />
   
   <img src="https://img.shields.io/badge/JIRA-Agile-blue?style=flat-square" />
   
